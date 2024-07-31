@@ -37,15 +37,15 @@ Thank you for visiting my portfolio. I look forward to discussing my qualificati
 
 ## I’m Currently Working On
 - **Looking For a Career Start in Data Analysis**
-- **My Portfolio projects**
-- **My Certifications**
-- **Advanced Machine Learning Techniques**
-- **Advanced Database Skills**
+- **Enhancing My Portfolio Projects**
+- **Completing Data Analytics Certifications**
+- **Learning Advanced Machine Learning Techniques**
+- **Improving Advanced Database Skills**
 
 ## Projects
 
 ### Bank Loan Project
-Description: This project is a analysis and visualisation of a bank’s loan data. It aims to create a comprehensive dashboard to monitor and assess a bank’s lending activities and performance. This report provides insights into key loan metrics, trends, and borrower behaviour to facilitate data-driven decision-making and optimise lending strategies.
+Description: Analysed and visualised a bank’s loan data to create a comprehensive dashboard for monitoring lending activities and performance. This report provides insights into key loan metrics, trends, and borrower behavior to facilitate data-driven decision-making and optimise lending strategies.
 - **Technologies Used:** SQL, Tableau, Microsoft Excel
 - **GitHub Repository:** [github.com/Jiahao30/Bank-Loan-Project](https://github.com/Jiahao30/Bank-Loan-Project)
 
@@ -72,10 +72,10 @@ Description: This project is a analysis and visualisation of a bank’s loan dat
 ## Education
 
 ### MSc in International Trade, Strategy and Operations
-**University of Warwick, UK**     *2022 - 2023*
+**University of Warwick, UK** | 2022 - 2023
 
 ### Bachelor of Management in Electronic Business
-**Jinan University, China**       *2018 - 2022*
+**Jinan University, China** | 2018 - 2022
 - Relevant courses: Database Principle and Design, MIS Development and Management, Big Data and Machine Learning, Computer Networks, Object-oriented Programming, C Language Programming, Cloud Computing, Computer Fundamentals, Business Intelligence
 
 
