@@ -49,6 +49,11 @@ Description: Analysed and visualised a bank’s loan data to create a comprehens
 - **Technologies Used:** SQL, Tableau, Microsoft Excel
 - **GitHub Repository:** [github.com/Jiahao30/Bank-Loan-Project](https://github.com/Jiahao30/Bank-Loan-Project)
 
+### Marketing Analytics Project
+Description: This project is a comprehensive data analysis and machine learning exercise focused on consumer behaviour and marketing strategy optimisation. The objective is to evaluate the impact of targeted marketing strategies on different segments of the supermarket’s consumer base, using predictive modeling and data visualisation techniques.
+- **Technologies Used:** Python(Pandas, Numpy, Scikit Learn), Tableau, Figma, Microsoft Excel
+- **GitHub Repository:** [github.com/Jiahao30/Marketing-Analytics-Project](https://github.com/Jiahao30/Marketing-Analytics-Project)
+
 ## Skills
 - **Programming Languages:** SQL, Python, R
 - **Data Analysis:** Pandas, Excel, SPSS, Stata
@@ -60,8 +65,11 @@ Description: Analysed and visualised a bank’s loan data to create a comprehens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
