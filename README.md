@@ -56,9 +56,9 @@ Description: This project is a comprehensive data analysis and machine learning 
 
 ## Skills
 - **Programming Languages:** SQL, Python, R
-- **Data Analysis:** Pandas, Excel, SPSS, Stata
+- **Data Analysis:** Pandas, Numpy, Excel, SPSS, Stata
 - **Data Visualization:** Tableau, Power BI
-- **Office and Productivity Tools:** Microsoft Office (Word/Excel/PowerPoint), Photoshop
+- **Office and Productivity Tools:** Microsoft Office (Word/Excel/PowerPoint), Figma, Photoshop
 - **Certifications:** Microsoft Certified: Power BI Data Analyst Associate
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
