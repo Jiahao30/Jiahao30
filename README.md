@@ -44,15 +44,20 @@ Thank you for visiting my portfolio. I look forward to discussing my qualificati
 
 ## Projects
 
-### Bank Loan Project
-Description: Analysed and visualised a bank’s loan data to create a comprehensive dashboard for monitoring lending activities and performance. This report provides insights into key loan metrics, trends, and borrower behavior to facilitate data-driven decision-making and optimise lending strategies.
-- **Technologies Used:** SQL, Tableau, Microsoft Excel
-- **GitHub Repository:** [github.com/Jiahao30/Bank-Loan-Project](https://github.com/Jiahao30/Bank-Loan-Project)
+### S&P500 Stock Analysis Project
+Description: This project aims to conduct an in-depth analysis of the stock prices of companies listed in the S&P 500 index, focusing on four major technology companies as examples: Apple (AAPL), Amazon (AMZN), Google (GOOG), and Microsoft (MSFT). The objective is to understand long-term trends in stock prices, calculate moving averages, and analyse the correlation between price movements.
+- **Technologies Used:** Python(Pandas, Numpy, Plotly, Seaborn, Matplotlib), Microsoft Excel
+- **GitHub Repository:** [github.com/Jiahao30/Stock-Analysis-Project](https://github.com/Jiahao30/Stock-Analysis-Project)
 
 ### Marketing Analytics Project
 Description: This project is a comprehensive data analysis and machine learning exercise focused on consumer behaviour and marketing strategy optimisation. The objective is to evaluate the impact of targeted marketing strategies on different segments of the supermarket’s consumer base, using predictive modeling and data visualisation techniques.
 - **Technologies Used:** Python(Pandas, Numpy, Scikit Learn), Tableau, Figma, Microsoft Excel
 - **GitHub Repository:** [github.com/Jiahao30/Marketing-Analytics-Project](https://github.com/Jiahao30/Marketing-Analytics-Project)
+
+### Bank Loan Project
+Description: Analysed and visualised a bank’s loan data to create a comprehensive dashboard for monitoring lending activities and performance. This report provides insights into key loan metrics, trends, and borrower behavior to facilitate data-driven decision-making and optimise lending strategies.
+- **Technologies Used:** SQL, Tableau, Microsoft Excel
+- **GitHub Repository:** [github.com/Jiahao30/Bank-Loan-Project](https://github.com/Jiahao30/Bank-Loan-Project)
 
 ## Skills
 - **Programming Languages:** SQL, Python, R
@@ -66,6 +71,7 @@ Description: This project is a comprehensive data analysis and machine learning 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -74,6 +80,7 @@ Description: This project is a comprehensive data analysis and machine learning 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
