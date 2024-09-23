@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Jiahao Shao 👋</h1>
+<h1 align="center">Hi, I'm Jasper Shao 👋</h1>
 
 ### Welcome to my GitHub portfolio! I am passionate about data analysis and enjoy working on projects that turn data into actionable insights. Here you'll find a collection of my projects.
 
@@ -31,7 +31,7 @@ Thank you for visiting my portfolio. I look forward to discussing my qualificati
 ### Connect with me
 - **Location:** London, UK
 - **Email:** jiahao.shao30@gmail.com
-- **LinkedIn:** [Jiahao Shao](https://www.linkedin.com/in/shao-jiahao/)
+- **LinkedIn:** [Jasper Shao](https://www.linkedin.com/in/jasper-shao/)
 
 💬 Feel free to reach out to me via Email or LinkedIn.
 
