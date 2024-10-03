@@ -43,6 +43,10 @@ Thank you for visiting my portfolio. I look forward to discussing my qualificati
 - **Improving Advanced Database Skills**
 
 ## Projects
+### Customer Behaviour Analysis Project
+Description: The Customer Behaviour Analysis Project aims to build an insightful dashboard that provides a comprehensive overview of user engagement and learning patterns on the 365 Careers platform. The dashboard enables tracking of student engagement, learning trends, exam performance, and certification issuance over time, offering actionable insights that can guide strategic decision-making to improve user experience and educational outcomes on the platform.
+- **Technologies Used:** SQL, Tableau, Microsoft Excel
+- **GitHub Repository:** [github.com/Jiahao30/Customer-Behaviour-Analysis-Project](https://github.com/Jiahao30/Customer-Behaviour-Analysis-Project)
 
 ### S&P500 Stock Analysis Project
 Description: This project aims to conduct an in-depth analysis of the stock prices of companies listed in the S&P 500 index, focusing on four major technology companies as examples: Apple (AAPL), Amazon (AMZN), Google (GOOG), and Microsoft (MSFT). The objective is to understand long-term trends in stock prices, calculate moving averages, and analyse the correlation between price movements.
