@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a Microsoft-certified BI/Data Analyst with 3 years of commercial consulting experience, delivering 30+ BI reports covering $100M+ in annual turnover for clients including BMW, Volkswagen, and Audi. I specialise in Power BI (DAX, Power Query, RLS), Azure cloud analytics, and ETL pipeline development, and I have recently been exploring how AI and LLMs can make analytics more accessible for non-technical teams.
+I am a BI Data Analyst with 3 years of commercial consulting experience, delivering 30+ BI reports covering $100M+ in annual turnover for clients including BMW, Volkswagen, and Audi. I specialise in Power BI (DAX, Power Query, RLS), Azure cloud analytics, and ETL pipeline development, and I have recently been exploring how AI and LLMs can make analytics more accessible for non-technical teams.
 
 I am currently based in Amsterdam on an Orientation Year Visa and open to full-time BI/Data Analyst roles across the Netherlands.
 
