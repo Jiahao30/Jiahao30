@@ -1,103 +1,116 @@
-
-<!--
-**Jiahao30/Jiahao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi, I'm Jasper Shao 👋</h1>
 
-### Welcome to my GitHub portfolio! I am passionate about data analysis and enjoy working on projects that turn data into actionable insights. Here you'll find a collection of my projects.
+<p align="center">
+  BI/Data Analyst &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Azure &nbsp;|&nbsp; Python &nbsp;|&nbsp; AI-Augmented Analytics
+</p>
 
-## About Me
-
-I am a recent graduate with an MSc in International Trade, Strategy, and Operations from the University of Warwick, and a bachelor’s in Electronic Business. With a strong foundation in strategic thinking and business operations, I have developed a keen interest in data analysis and its application in driving business decisions.
-
-I have honed my analytical skills through various projects, coursework, and self-study, becoming proficient in **Python, SQL, Excel, Power BI, and Tableau**. My portfolio showcases projects where I processed data using SQL and Python, and created dashboards and reports with Tableau and Excel. These projects demonstrate my ability to extract and present valuable insights from large datasets, making data accessible for decision-makers.
-
-I am eager to leverage my unique background in international trade and strategy to help organisations make data-driven decisions. I am currently seeking opportunities as a Data Analyst to contribute my skills and grow my expertise.
-
-Thank you for visiting my portfolio. I look forward to discussing my qualifications further.
-
-### Connect with me
-- **Location:** London, UK
-- **Email:** jiahao.shao30@gmail.com
-- **LinkedIn:** [Jasper Shao](https://www.linkedin.com/in/jasper-shao/)
-
-💬 Feel free to reach out to me via Email or LinkedIn.
-
-## I’m Currently Working On
-- **Looking For a Career Start in Data Analysis**
-- **Enhancing My Portfolio Projects**
-- **Completing Data Analytics Certifications**
-- **Learning Advanced Machine Learning Techniques**
-- **Improving Advanced Database Skills**
-
-## Projects
-### Customer Behaviour Analysis Project
-Description: The Customer Behaviour Analysis Project aims to build an insightful dashboard that provides a comprehensive overview of user engagement and learning patterns on the 365 Careers platform. The dashboard enables tracking of student engagement, learning trends, exam performance, and certification issuance over time, offering actionable insights that can guide strategic decision-making to improve user experience and educational outcomes on the platform.
-- **Technologies Used:** SQL, Tableau, Microsoft Excel
-- **GitHub Repository:** [github.com/Jiahao30/Customer-Behaviour-Analysis-Project](https://github.com/Jiahao30/Customer-Behaviour-Analysis-Project)
-
-### S&P500 Stock Analysis Project
-Description: This project aims to conduct an in-depth analysis of the stock prices of companies listed in the S&P 500 index, focusing on four major technology companies as examples: Apple (AAPL), Amazon (AMZN), Google (GOOG), and Microsoft (MSFT). The objective is to understand long-term trends in stock prices, calculate moving averages, and analyse the correlation between price movements.
-- **Technologies Used:** Python(Pandas, Numpy, Plotly, Seaborn, Matplotlib), Microsoft Excel
-- **GitHub Repository:** [github.com/Jiahao30/Stock-Analysis-Project](https://github.com/Jiahao30/Stock-Analysis-Project)
-
-### Marketing Analytics Project
-Description: This project is a comprehensive data analysis and machine learning exercise focused on consumer behaviour and marketing strategy optimisation. The objective is to evaluate the impact of targeted marketing strategies on different segments of the supermarket’s consumer base, using predictive modeling and data visualisation techniques.
-- **Technologies Used:** Python(Pandas, Numpy, Scikit Learn), Tableau, Figma, Microsoft Excel
-- **GitHub Repository:** [github.com/Jiahao30/Marketing-Analytics-Project](https://github.com/Jiahao30/Marketing-Analytics-Project)
-
-### Bank Loan Project
-Description: Analysed and visualised a bank’s loan data to create a comprehensive dashboard for monitoring lending activities and performance. This report provides insights into key loan metrics, trends, and borrower behavior to facilitate data-driven decision-making and optimise lending strategies.
-- **Technologies Used:** SQL, Tableau, Microsoft Excel
-- **GitHub Repository:** [github.com/Jiahao30/Bank-Loan-Project](https://github.com/Jiahao30/Bank-Loan-Project)
-
-## Skills
-- **Programming Languages:** SQL, Python, R
-- **Data Analysis:** Pandas, Numpy, Excel, SPSS, Stata
-- **Data Visualization:** Tableau, Power BI
-- **Office and Productivity Tools:** Microsoft Office (Word/Excel/PowerPoint), Figma, Photoshop
-- **Certifications:** Microsoft Certified: Power BI Data Analyst Associate
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Education
-
-### MSc in International Trade, Strategy and Operations
-**University of Warwick, UK** | 2022 - 2023
-
-### Bachelor of Management in Electronic Business
-**Jinan University, China** | 2018 - 2022
-- Relevant courses: Database Principle and Design, MIS Development and Management, Big Data and Machine Learning, Computer Networks, Object-oriented Programming, C Language Programming, Cloud Computing, Computer Fundamentals, Business Intelligence
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasper-shao/"><img src="https://img.shields.io/badge/LinkedIn-jasper--shao-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:jiahao.shao30@gmail.com"><img src="https://img.shields.io/badge/Email-jiahao.shao30@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Amsterdam%2C%20Netherlands-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
 
 ---
 
-Thank you for visiting my GitHub portfolio!
+## About Me
+
+I am a Microsoft-certified BI/Data Analyst with 3 years of commercial consulting experience, delivering 30+ BI reports covering $100M+ in annual turnover for clients including BMW, Volkswagen, and Audi. I specialise in Power BI (DAX, Power Query, RLS), Azure cloud analytics, and ETL pipeline development, and I have recently been exploring how AI and LLMs can make analytics more accessible for non-technical teams.
+
+I am currently based in Amsterdam on an Orientation Year Visa and open to full-time BI/Data Analyst roles across the Netherlands.
+
+- 📍 **Location:** Amsterdam, Netherlands
+- 📫 **Email:** jiahao.shao30@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/jasper-shao](https://www.linkedin.com/in/jasper-shao/)
+- 🔭 **Currently working on:** AI-augmented BI tooling and expanding my Azure/Python project portfolio
+
+---
+
+## 🏢 Work Experience
+
+**BI Data Analyst** — HubCore Consulting Ltd, London *(May 2023 – Present)*
+- Delivered 30+ ERP commercial reports covering $100M+ turnover for BMW, Volkswagen, and Audi
+- Migrated on-premises data warehouse to Azure Data Lake via Synapse Analytics
+- Automated month-end reconciliation in Alteryx, reducing a 3-day manual close to under 4 hours per cycle
+- Built Power BI dashboards (DAX, T-SQL) serving 10+ sales managers; embedded Power Apps for live data write-back
+
+**Data Analyst Intern** — Digita Spot Consulting, Remote UK *(Jan 2023 – Apr 2023)*
+- Built self-service Power BI datasets and semantic models for e-commerce clients in Australia and New Zealand
+- Migrated SSAS Tabular Cube to Power BI, mirroring DAX logic and KPI measures
+
+---
+
+## 🚀 Featured Project
+
+### [DataPilot — AI-Powered BI Assistant](https://github.com/Jiahao30/datapilot-bi)
+> Upload any CSV/Excel, ask questions in plain English, get instant SQL + charts.
+
+Built with **Claude AI (Anthropic)**, **DuckDB**, **Streamlit**, and **Plotly**.
+
+- Natural language to SQL via Claude LLM
+- In-memory analytics on 500K+ rows with sub-second response times
+- Auto-generated interactive charts and data profiling reports
+- Reduces ad-hoc analysis time from hours to seconds
+
+---
+
+## 📊 Other Projects
+
+### [Customer Behaviour Analysis Dashboard](https://github.com/Jiahao30/Customer-Behaviour-Analysis-Project)
+Designed analytics dashboards for the 365 Careers e-learning platform, tracking student engagement, learning trends, exam performance, and certification issuance across 100K+ user records.
+- **Technologies:** SQL, Tableau, Microsoft Excel
+
+### [Marketing Analytics Project](https://github.com/Jiahao30/Marketing-Analytics-Project)
+Analysed consumer behaviour and evaluated the impact of targeted marketing strategies on different customer segments, using machine learning and data visualisation.
+- **Technologies:** Python (Pandas, Scikit-learn), Tableau, Excel
+
+### [S&P 500 Stock Analysis](https://github.com/Jiahao30/Stock-Analysis-Project)
+Analysed long-term stock price trends, moving averages, and correlations for Apple, Amazon, Google, and Microsoft.
+- **Technologies:** Python (Pandas, Plotly, Seaborn, Matplotlib), Excel
+
+### [Bank Loan Analysis](https://github.com/Jiahao30/Bank-Loan-Project)
+Built a comprehensive dashboard for monitoring loan performance, tracking key metrics, trends, and borrower behaviour to support data-driven lending decisions.
+- **Technologies:** SQL, Tableau, Microsoft Excel
+
+---
+
+## 🛠️ Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **BI & Visualisation** | Power BI (DAX, Power Query, RLS, Paginated Reports), Tableau, SSRS |
+| **Cloud & Engineering** | Azure Synapse Analytics, Data Factory, Databricks, Data Lake, Azure Function Apps |
+| **ETL & Integration** | SSIS, Alteryx, dbt, ADF Pipelines, PySpark, Power Apps, Power Automate |
+| **Databases** | MS SQL Server, T-SQL, SSAS Tabular, MySQL, DuckDB |
+| **Programming** | Python (Pandas, Matplotlib, Streamlit), Claude AI / LLM Integration, R, Git |
+| **ERP / CRM** | Microsoft Dynamics 365, SAP, Salesforce |
+| **Languages** | English (Proficient), Mandarin (Native), Cantonese (Native), Dutch (Beginner) |
+
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** | Dec 2024 |
+| 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | Jun 2024 |
+| 🎓 **MSc International Trade, Strategy & Operations** — University of Warwick, UK | 2022 – 2023 |
+| 🎓 **BM Electronic Business** — Jinan University, Shenzhen, China | 2018 – 2022 |
+
+---
+
+*Thanks for visiting my profile. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jasper-shao/) or [email](mailto:jiahao.shao30@gmail.com).*
